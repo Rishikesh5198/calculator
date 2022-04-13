@@ -1,0 +1,29 @@
+h1
+{
+    color: cadetblue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+#div1,#div2,#div3
+{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: large;
+    display: flex;
+    justify-content: center;
+}
+#num1,#num2,#res
+{
+    margin: 7px;
+}
+#b
+{
+    display: flex;
+    justify-content: center;
+    margin: 25px;
+}
+button{
+    padding: 15px;
+    margin: 10px;
+    background-color: beige;
+
+}
